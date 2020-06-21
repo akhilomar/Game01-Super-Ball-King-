@@ -1,0 +1,6 @@
+- Update Notification
+- Grass in first stage
+- lock and unlock message and description
+- ad mob
+- jumping concept
+- coin concept
